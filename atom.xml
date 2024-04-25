@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nihaosjie.github.io</id>
+    <title>CX</title>
+    <updated>2024-04-25T14:44:14.203Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nihaosjie.github.io"/>
+    <link rel="self" href="https://nihaosjie.github.io/atom.xml"/>
+    <logo>https://nihaosjie.github.io/images/avatar.png</logo>
+    <icon>https://nihaosjie.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, CX</rights>
+    <entry>
+        <title type="html"><![CDATA[伤心的事]]></title>
+        <id>https://nihaosjie.github.io/post/shang-xin-de-shi/</id>
+        <link href="https://nihaosjie.github.io/post/shang-xin-de-shi/">
+        </link>
+        <updated>2024-04-25T14:42:32.000Z</updated>
+        <content type="html"><![CDATA[<p>被勒索了3元；没吃到团子🍡； 4/25</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开心的事]]></title>
+        <id>https://nihaosjie.github.io/post/kai-xin-de-shi/</id>
+        <link href="https://nihaosjie.github.io/post/kai-xin-de-shi/">
+        </link>
+        <updated>2024-04-25T14:41:30.000Z</updated>
+        <content type="html"><![CDATA[<p>无  4/25</p>
+]]></content>
+    </entry>
+</feed>
