@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nihaosjie.github.io</id>
+    <title>CX</title>
+    <updated>2024-07-17T04:06:28.936Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nihaosjie.github.io"/>
+    <link rel="self" href="https://nihaosjie.github.io/atom.xml"/>
+    <logo>https://nihaosjie.github.io/images/avatar.png</logo>
+    <icon>https://nihaosjie.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, CX</rights>
+    <entry>
+        <title type="html"><![CDATA[开心+N]]></title>
+        <id>https://nihaosjie.github.io/post/kai-xin-n/</id>
+        <link href="https://nihaosjie.github.io/post/kai-xin-n/">
+        </link>
+        <updated>2024-07-17T04:02:23.000Z</updated>
+        <content type="html"><![CDATA[<p>新键盘，鼠标到了。敲好看，静音的，打字很舒服。<br>
+嗒嗒嗒，哒~（手动模拟音效）<br>
+开心。😃</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STL]]></title>
+        <id>https://nihaosjie.github.io/post/stl/</id>
+        <link href="https://nihaosjie.github.io/post/stl/">
+        </link>
+        <updated>2024-07-16T14:54:16.000Z</updated>
+        <content type="html"><![CDATA[<p>以下内容为STL（c++标准化容器）基本容器</p>
+<p>vector ：<br>
+这个容器原意为向量，但是这个名字不太准确，确切一点可以理解为可扩容的动态数组，正常的开一个数组需要提前预判好容量，导致有时候数组越界，灰常不方便。但vector就不会有这种问题，它是实时更新的，而且还能（头插，尾插bushi），说白了就是个高级点的队列。（在OI圈中，vector也有时会被当做链表使用，除了从中间插入，都可以，复杂度也一样。<em><strong>自娱自乐</strong></em>）<br>
+用法：<br>
+大小：a.size（）<br>
+尾）插入：a.push_back()<br>
+(头)   插入：a.push_heap()</p>
+]]></content>
+    </entry>
+</feed>
